@@ -1,0 +1,33 @@
+body{
+    background-color: skyblue;
+}
+
+#login_div1{
+    margin-left: 600px;
+    margin-top: 25px;
+    text-align: center;
+}
+
+#login_div2{
+    margin-top: 100px;
+    margin-right: 50px;
+    margin-left: 600px;
+    text-align: center;
+}
+
+button{
+    margin-top: 100px;
+    margin-right: 200px;
+    margin-left: 620px;
+}
+
+#output
+{
+	background: white;
+	border-radius: 10px;
+	border-top: 10px solid #AA4465;
+	padding: 10px;
+	float: none;
+	text-align: left;
+}
+
